@@ -1,0 +1,1 @@
+export const isOfAge = (age) => Math.max(age) >= 21;
